@@ -20,8 +20,9 @@
     },
     {
       "firstName": "Steven",
-      "age": 23,
-      "id": "rkhdoRynb"
+      "age": 10,
+      "id": "rkhdoRynb",
+      "companyId": "2"
     }
   ],
   "companies": [
